@@ -12,3 +12,7 @@ __pycache__/
 .cursor-server
 .idea
 .vscode
+.claude
+.copilot
+.copilot-chat
+.claude.json
