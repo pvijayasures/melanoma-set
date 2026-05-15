@@ -1,0 +1,14 @@
+data/
+outputs/
+__pycache__/
+*.pth
+*.pyc
+.ipynb_checkpoints/
+.lightning_studio
+.kaggle
+.vscode-server
+.wget-hsts
+.windsurf-server
+.cursor-server
+.idea
+.vscode
